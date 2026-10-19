@@ -4,5 +4,9 @@
   "version": "0.1.0",
   "keywords": [
     "sovereign-state-enterprise"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/hevi-mala-paracosm-services-section.git"
+  }
 }
