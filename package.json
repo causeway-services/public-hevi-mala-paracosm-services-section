@@ -1,0 +1,10 @@
+{
+  "name": "@emsenn/hevi-mala-paracosm-services-section",
+  "version": "0.1.0",
+  "description": "public-hevi-mala-paracosm-services-section is a services section of the 561 Group.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/hevi-mala-services-section.git"
+  },
+  "license": "Apache-2.0"
+}
